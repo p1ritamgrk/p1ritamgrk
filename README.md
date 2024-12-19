@@ -1,5 +1,5 @@
 # ✫ About Me:
- 🔭 I’m currently working on online food management project on web app<br><br>🤝 I’m looking for Backend developer job<br>🌱 I’m currently learning JAVA Spring boot<br>💬 Ask me about JAVA, Spring boot, JPA, Hibernate, PostgreSQL, MongoDB
+ 🔭 I’m currently working on Mobile Finance Technology - Banking and Payments <br><br>🤝 I’m looking for Backend developer job<br>🌱 I’m currently learning JAVA Spring boot<br>💬 Ask me about JAVA, Spring boot, JPA, Hibernate, PostgreSQL, MongoDB
 
 
 # 💻 Tech Stack:
@@ -10,7 +10,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=p1ritamgrk&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p1ritamgrk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds)
 
 ---
