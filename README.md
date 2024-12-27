@@ -22,6 +22,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=P2ritamshrestha&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=P1ritamgrk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
